@@ -1,8 +1,5 @@
 /*Viraj Bhalala
- * CS 114-002
- * Spring 2014
- * 
- * */
+ */
 
 import java.util.*;
 public class Problem1 {
@@ -15,7 +12,7 @@ static int x =0;
  System.out.println(recursive(s));
 
 }
- //recursive method
+ //recursive method to convert string to integer
 public static int recursive(String s){
 	int temp=0;
 	//condition1
